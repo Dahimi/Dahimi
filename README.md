@@ -21,11 +21,11 @@ and anything that is STEM related.
 - 🔭 I’ve worked on many computer science and engineering projects ( Building Web Apps, Robotics, Machine Learning ) 
 - 🌱 I’m currently learning more about Machine Learning and Data Science as well as pursuing my engineering degree
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahimi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahimi&show_icons=true&theme=radical" />
 
 - 📫 How to reach me:
-<p>
+
 <a href='mailto:soufianedahimi01@gmail.com'>![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href = 'https://www.linkedin.com/in/soufiane-dahimi/'>![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href = 'https://github.com/Dahimi'>![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
-</p>
+
