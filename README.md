@@ -23,8 +23,8 @@ and anything that is STEM related.
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Dahimi&show_icons=true&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahimi&show_icons=true&theme=radical" />
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dahimi&repo=Mars-Rover-Prototype)](https://github.com/Dahimi/Mars-Rover-Prototype)
-
+  <a href="https://github.com/Dahimi/Mars-Rover-Prototype">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dahimi&repo=Mars-Rover-Prototype&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> 
 - 📫 How to reach me:
 
 <a href='mailto:soufianedahimi01@gmail.com'>![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
