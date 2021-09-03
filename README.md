@@ -47,7 +47,7 @@ and anything that is STEM related.
 
 ![](https://img.shields.io/badge/Framework_Libraries-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework_Libraries-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework_Libraries-Numpy-informational?style=flat&Numpy=Django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework_Libraries-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework_Libraries-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
 
 
@@ -56,7 +56,8 @@ and anything that is STEM related.
   
 - 📫 How to reach me:
 
+<p align = 'center'>
 <a href='mailto:soufianedahimi01@gmail.com'>![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href = 'https://www.linkedin.com/in/soufiane-dahimi/'>![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href = 'https://github.com/Dahimi'>![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
-
+</p>
