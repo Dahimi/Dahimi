@@ -1,4 +1,4 @@
-![alt text](https://github.com/Dahimi/Dahimi/blob/main/header.gif?raw=true)
+
 ### Hi there 👋
 
 <!--
