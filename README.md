@@ -1,4 +1,4 @@
-![alt text](https://github.com/Dahimi/Dahimi/blob/main/yes.jpg?raw=true)
+![alt text](https://github.com/Dahimi/Dahimi/blob/main/soufianedahimi.jpg?raw=true)
 ### Hi there 👋
 
 <!--
