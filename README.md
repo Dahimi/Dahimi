@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/soufiane_dahimi.gif "Header")](https://github.com/Dahimi)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/soufianedahimi.gif "Header")](https://github.com/Dahimi)
 
 ### Hi there 👋
 
