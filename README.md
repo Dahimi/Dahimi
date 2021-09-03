@@ -1,4 +1,4 @@
-![header image](https://github.com/Dahimi/Dahimi/edit/main/yes.jpg)
+![alt text](https://github.com/Dahimi/Dahimi/blob/main/yes.jpg?raw=true)
 ### Hi there 👋
 
 <!--
