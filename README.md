@@ -57,7 +57,7 @@ and anything that is STEM related.
 - 📫 How to reach me:
 
 <p align = 'center'>
-<a href='mailto:soufianedahimi01@gmail.com'>![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href='mailto:soufianedahimi01@gmail.com'><img src ='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a> 
 <a href = 'https://www.linkedin.com/in/soufiane-dahimi/'>![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href = 'https://github.com/Dahimi'>![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 </p>
