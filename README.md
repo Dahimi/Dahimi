@@ -21,9 +21,11 @@ and anything that is STEM related.
 - 🔭 I’ve worked on many computer science and engineering projects ( Building Web Apps, Robotics, Machine Learning ) 
 - 🌱 I’m currently learning more about Machine Learning and Data Science as well as pursuing my engineering degree
 
-<p>
+<p align = 'center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Dahimi&show_icons=true&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahimi&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dahimi&show_icons=true&theme=radical" />
+
 </p>
 - 📫 How to reach me:
 
