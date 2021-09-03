@@ -1,7 +1,6 @@
 ![alt text](https://github.com/Dahimi/Dahimi/blob/main/header_photo.jpg?raw=true)
 ### Hi there 👋
 
-<!--
 **Dahimi/Dahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 I'm Soufiane ! I'm a Machine Learning and Data Science enthusiast, junior software developer and an industrial engineering student. I'm fascinated about learning new technologies
 and anything that is STEM related. 
 🔭 I’ve worked on many computer science and engineering projects ( Building Web Apps, Robotics, Machine Learning ) 
