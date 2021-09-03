@@ -20,6 +20,6 @@ I'm Soufiane ! I'm a Machine Learning and Data Science enthusiast, junior softwa
 and anything that is STEM related. 
 - 🔭 I’ve worked on many computer science and engineering projects ( Building Web Apps, Robotics, Machine Learning ) 
 - 🌱 I’m currently learning more about Machine Learning and Data Science as well as pursuing my engineering degree
-- 📫 How to reach me:
+- 📫 How to reach me: ![gmail](soufianedahimi01@gmail.com)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
