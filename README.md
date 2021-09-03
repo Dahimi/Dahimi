@@ -23,7 +23,7 @@ and anything that is STEM related.
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Dahimi&show_icons=true&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahimi&show_icons=true&theme=radical" />
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dahimi&repo=Mars-Rover-Prototype)](https://github.com/Dahimi/Mars-Rover-Prototype)
+  ![[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dahimi&repo=Mars-Rover-Prototype)](https://github.com/Dahimi/Mars-Rover-Prototype)
 
 - 📫 How to reach me:
 
