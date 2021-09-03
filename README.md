@@ -26,7 +26,10 @@ and anything that is STEM related.
   <a href="https://github.com/Dahimi/Mars-Rover-Prototype">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dahimi&repo=Mars-Rover-Prototype&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> 
   
-  
+
+## ✍️ Blogging
+Apart from coding, I also maintain a blog - you can find my articles on ![Medium](https://medium.com/@dahimisoufiane01_68865).
+
 ## 🔧 Technologies & Tools
   
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
