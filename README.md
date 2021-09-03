@@ -1,4 +1,4 @@
-/yes.jpg
+![header image](https://github.com/Dahimi/Dahimi/edit/main/yes.jpg)
 ### Hi there 👋
 
 <!--
