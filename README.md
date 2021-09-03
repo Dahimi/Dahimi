@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Dahimi/Dahimi/Dahimi/soufianedahimi.gif "Header")](https://github.com/Dahimi)
-
+/yes.jpg
 ### Hi there 👋
 
 <!--
