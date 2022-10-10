@@ -28,7 +28,7 @@ and anything that is STEM related.
   
 
 ## ✍️ Blogging
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@dahimisoufiane01_68865).
+Apart from coding, I also maintain a blog - you can find my articles on [LinkedIn]([https://medium.com/@dahimisoufiane01_68865](https://www.linkedin.com/in/soufiane-dahimi/recent-activity/posts/)).
 
 ## 🔧 Technologies & Tools
   
